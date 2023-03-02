@@ -20,9 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="General\" />
-    <Folder Include="Manager\Documents\" />
-    <Folder Include="Manager\Tasks\" />
+    <Folder Include="TS_2000_Manager\TS_2300_Documents\" />
+    <Folder Include="TS_2000_Manager\TS_2200_Tasks\" />
   </ItemGroup>
 
 </Project>

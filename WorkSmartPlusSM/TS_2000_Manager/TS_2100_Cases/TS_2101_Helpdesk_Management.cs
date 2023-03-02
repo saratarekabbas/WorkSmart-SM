@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WorkSmartPlusSM.Manager.Cases
 {
-    internal class Create_Case
+    internal class TS_2101_Helpdesk_Management
     {
         [SetUp]
         public void Setup()
@@ -17,6 +17,12 @@ namespace WorkSmartPlusSM.Manager.Cases
         public void Test1()
         {
             Assert.Pass();
+        }
+
+        [TearDown]
+        public void TearDown()
+        {
+
         }
     }
 }
